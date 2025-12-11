@@ -50,6 +50,7 @@ Contains only a ListView stretched to fill the screen.
 
 📦 File Structure
 /app/src/main/java/com/example/adapters/
+
       │── MainActivity.java
       │── myCustomAdapter.java
       │
