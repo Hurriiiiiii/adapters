@@ -49,8 +49,8 @@ Defines how each row of the list should look (large colored text, padding, etc.)
 Contains only a ListView stretched to fill the screen.
 
 📦 File Structure
-/app/src/main/java/com/example/adapters/
 
+      /app/src/main/java/com/example/adapters/
       │── MainActivity.java
       │── myCustomAdapter.java
       │
